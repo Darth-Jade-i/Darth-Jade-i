@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/darth-jade_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="darth-jade_i" height="30" width="40" /></a>
+<a href="https://codepen.io/darth-jade_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="darth-jade_i" height="30" width="40" color="white"/></a>
 <a href="https://dev.to/darth-jade_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="darth-jade_i" height="30" width="40" /></a>
 <a href="https://twitter.com/darth_jade_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darth_jade_i" height="30" width="40" /></a>
 <a href="https://medium.com/@darth_jade-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@darth_jade-i" height="30" width="40" /></a>
