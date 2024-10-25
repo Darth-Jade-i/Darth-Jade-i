@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/darth_jade_i" target="blank"><img src="https://img.shields.io/twitter/follow/darth_jade_i?logo=twitter&style=for-the-badge" alt="darth_jade_i" /></a> </p>
 
-- 🌱 I just **graduated** from learning **Software Engineering with ![image](https://github.com/user-attachments/assets/e3d9c5c5-3586-438f-841d-e5cb51bbcd60)
-ALX Africa**
+- 🌱 I just **graduated** from learning **Software Engineering with ALX Africa**![image](https://github.com/user-attachments/assets/b15a08ec-725e-4215-932a-ad43f5d199db)
+
 
 - 💬 Ask me about **C, Python, HTML, CSS, JavaScript, etc**
 
