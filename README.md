@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/darth_jade_i" target="blank"><img src="https://img.shields.io/twitter/follow/darth_jade_i?logo=twitter&style=for-the-badge" alt="darth_jade_i" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering with ALX Africa**
+- 🌱 I just **graduated** from learning **Software Engineering with ALX Africa**
 
 - 💬 Ask me about **C, Python, HTML, CSS, JavaScript, etc**
 
